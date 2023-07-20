@@ -10,11 +10,6 @@
       "y": 490
     }
   ],
-  "whitelist": [
-    {
-      "name": "Black Company void outline",
-      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/void_template.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
