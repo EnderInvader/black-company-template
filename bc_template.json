@@ -10,11 +10,6 @@
       "y": 490
     }
   ],
-  "whitelist": [
-    {
-      "name": "Fuck Spez",
-      "url": "https://raw.githubusercontent.com/EnderInvader/black-company-template/main/fuck_spez_template.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
