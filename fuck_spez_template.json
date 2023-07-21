@@ -1,0 +1,15 @@
+{
+  "contact": "Black Company: discord.gg/4sKvzQJpNZ",
+  "templates": [
+    {
+      "name": "Black Company",
+      "sources": [
+        "https://raw.githubusercontent.com/EnderInvader/black-company-template/main/FuckSpez.png"
+      ],
+      "x": 450,
+      "y": 440
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
