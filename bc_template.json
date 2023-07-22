@@ -10,6 +10,11 @@
       "y": 490
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Join Lemmy",
+      "url": "https://raw.githubusercontent.com/userliluzibert/join-lemmy.org-banner/main/join-lemmy-template.json"
+    }
+  ],
   "blacklist": []
 }
