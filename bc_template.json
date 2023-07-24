@@ -22,6 +22,11 @@
       "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/uch_template.json"
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Join Lemmy",
+      "url": "https://raw.githubusercontent.com/ChaoticNeutralCzech/myRandomImages/main/jlemmybig.json"
+    }
+  ],
   "blacklist": []
 }
