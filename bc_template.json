@@ -16,6 +16,10 @@
       ],
       "x": 1359,
       "y": 1062
+    },
+    {
+      "name": "Ultimate Chicken Horse",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/uch_template.json"
     }
   ],
   "whitelist": [],
