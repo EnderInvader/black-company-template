@@ -6,7 +6,7 @@
       "sources": [
         "https://raw.githubusercontent.com/EnderInvader/black-company-template/main/BlackCompany.png"
       ],
-      "x": 922,
+      "x": 1422,
       "y": 990
     },
     {
@@ -14,15 +14,10 @@
       "sources": [
         "https://i.imgur.com/GjGEcO6.png"
       ],
-      "x": 859,
+      "x": 1359,
       "y": 1062
     }
   ],
-  "whitelist": [
-    {
-      "name": "Join Lemmy",
-      "url": "https://raw.githubusercontent.com/userliluzibert/join-lemmy.org-banner/main/join-lemmy-template.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
